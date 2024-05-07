@@ -1,0 +1,26 @@
+{
+    "usuario": {
+        "nombres": "Jaime",
+        "apellido": "Barrera",
+        "# de Identificacion": 1093925253,
+        "direccion": "Espana",
+        "Celular": 3123702377,
+        "tipo de cliente": "leal",
+        "internet": "Fibra optica",
+        "megas": "+120 megas",
+        "Television": "Satelital",
+        "Plan de tv": "200 canales",
+        "bonificacion de fidelidad": 70
+    }
+}
+{
+    "usuario": {
+        "nombres": "Karen",
+        "apellido": "ortega",
+        "# de Identificacion": 2165465,
+        "direccion": "tibu",
+        "Celular": 215465,
+        "tipo de cliente": "nuevo"
+
+    }
+}
